@@ -26,7 +26,7 @@ This package contains everything needed to run the YDLidar GS2 LiDAR sensor with
 1. **ESP32-C6 Connections:**
    - LiDAR RX → ESP32 GPIO 5 (TX)
    - LiDAR TX → ESP32 GPIO 4 (RX)
-   - LiDAR 5V → ESP32 5V
+   - LiDAR 5V → ESP32 3.3V
    - LiDAR GND → ESP32 GND
 
 2. **Upload Arduino Code:**
